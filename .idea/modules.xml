@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/uai-food-backend.iml" filepath="$PROJECT_DIR$/.idea/uai-food-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hi-nest.iml" filepath="$PROJECT_DIR$/.idea/hi-nest.iml" />
     </modules>
   </component>
 </project>
