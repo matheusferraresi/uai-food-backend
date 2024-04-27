@@ -14,8 +14,8 @@ export class Restaurant {
   @IsString()
   name: string;
 
-  @Field(() => Boolean, { defaultValue: false })
-  @Column({ default: false })
+  @Field(() => Boolean, { defaultValue: false, nullable: true })
+  @Column({ default: false, nullable: true })
   @IsOptional()
   @IsBoolean()
   isVegan: boolean;
